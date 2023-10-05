@@ -1,0 +1,19 @@
+1.wap to accept a line and check how many consonents and vowels are there in a line 
+
+2. wap that creates and initialize a 4 int element array calculate and display the average of its values 
+
+3. wap to print given array in reverse order
+
+4. string scan print string after middle half
+
+5. wap that searches through its command line argument If an argument that does not begin with upper case letter display error message and terminate.
+
+6. string scan and print in pyramid
+ string
+	s
+       s t
+      s t r
+     s t r i 
+    s t r i n
+   s t r i n g
+
