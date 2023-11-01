@@ -1,4 +1,0 @@
-wap to create circle class with area function to find area of circle
-define time class with constructor to initialize hour and minute also define addition method to add to time objects.
-create a class named bank_account with data members account_no user_name email account_type & account_balance also create methods get_account_details and display account details
-find power of number without using power function and multiplication sign
